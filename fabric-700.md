@@ -11,7 +11,7 @@
 This capstone uses **exactly the same data and resources** as the official Fabric labs from the repository:
 
 - **Online instructions index:**  
-  https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/
+  https://microsoftlearning.github.io/mslearn-fabric/
 
 - **GitHub repo (instructions + assets):**  
   https://github.com/MicrosoftLearning/mslearn-fabric
